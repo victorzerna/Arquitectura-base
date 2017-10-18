@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/victorhugosernasuarez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4267afcce66c3984c791f32a573587c7fbfb05b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorhugosernasuarez/.android/build-cache/43b757b8121afa84c434bc403289f47fb5af23e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a8dee0c19a5b60d268b2e5d10ba34fab90bf498/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0ca402105253b7a7446adc3b8364a23640a472c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9937d25140670cfa606a709b3f03fe1dc0b82768">
+        <dex dex="/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ff877b8fcc20a444204f767cf3aa9e26de94749/classes.dex" />
+    </item>
+
+</items>

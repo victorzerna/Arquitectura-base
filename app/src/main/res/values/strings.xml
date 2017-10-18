@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ArquitecturaMVPBase</string>
+    <string name="product_name">Nombre</string>
+    <string name="product_description">Descripción</string>
+    <string name="product_quantity">Cantidad</string>
+    <string name="product_price">Precio</string>
+    <string name="loading_message">Cargando...</string>
+    <string name="create_button">Crear</string>
+    <string name="okResponseCreateProduct">Producto Creado Correctamente</string>
+    <string name="errResponseCreateProduct">Error Creando el Producto</string>
+
+    <string name="text_description">Descripción</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_price">Precio</string>
+    <string name="text_quantity">Cantidad</string>
+    <string name="text_button">Crear producto</string>
+
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="price">Precio</string>
+    <string name="quantity">Cantidad</string>
+    <string name="validate_internet">Error de conectividad</string>
+    <string name="correct">Se ha eliminado correctamente</string>
+    <string name="error_delete_product">Ha ocurrido un error eliminando el producto</string>
+    <string name="deleteProduct">Producto eliminado</string>
+    <string name="error">Error</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="loginName">Nombre:</string>
+    <string name="loginUserName">Nombre de Usuario</string>
+    <string name="loginEmail">Correo Electrónico</string>
+    <string name="loginPassword">Contraseña</string>
+    <string name="loginFollowings">Seguidores</string>
+    <string name="loginFollowers">Seguidores</string>
+    <string name="loginLikes">Me gustan</string>
+    <string name="loginToken">Token</string>
+    <string name="name_user">Nombre de Usuario</string>
+    <string name="followins">Siguiendo</string>
+    <string name="followers">Seguidores</string>
+    <string name="ilike">Me gusta</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="state_list">Lista de Estados</string>
+    <string name="bt_cerrar">Cerrar</string>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+</resources>

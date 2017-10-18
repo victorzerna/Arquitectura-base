@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/victorhugosernasuarez/.android/build-cache/058e20825b21653384e6c98c4428748ac9dd2bb7/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

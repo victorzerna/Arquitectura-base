@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/e651e9f26466cd950ade8fde93ecb411720256d7/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

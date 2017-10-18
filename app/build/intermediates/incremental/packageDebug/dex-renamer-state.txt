@@ -1,0 +1,7 @@
+#Tue Oct 17 17:32:38 COT 2017
+base.0=/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ff877b8fcc20a444204f767cf3aa9e26de94749
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0ca402105253b7a7446adc3b8364a23640a472c/classes.dex
+base.1=/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b0ca402105253b7a7446adc3b8364a23640a472c
+file.0=/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ff877b8fcc20a444204f767cf3aa9e26de94749/classes.dex

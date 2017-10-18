@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/e651e9f26466cd950ade8fde93ecb411720256d7/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/e651e9f26466cd950ade8fde93ecb411720256d7/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/e651e9f26466cd950ade8fde93ecb411720256d7/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/e651e9f26466cd950ade8fde93ecb411720256d7/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorhugosernasuarez/AndroidStudioProjects/Arquitectura-base/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/victorhugosernasuarez/.android/build-cache/ce07976a01c0b9ae27a8220bd679e6a2f7f1dfca/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
